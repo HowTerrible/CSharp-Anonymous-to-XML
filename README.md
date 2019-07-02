@@ -3,7 +3,7 @@ CSharp Anonymous to XML Code Modified from StackOverFlow
 
 Base Code are modified from answer at StackOverFlow
 https://stackoverflow.com/questions/2404685/can-i-serialize-anonymous-types-as-xml#
-Thanks for excellent work @Matthew and @Martin
+Thanks for excellent work @Matthew , @Martin and @Jeremy-Cook
 
 ---
 add Something：
