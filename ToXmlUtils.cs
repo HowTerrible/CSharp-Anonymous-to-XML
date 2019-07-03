@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 namespace XmlTest
 {
-    public static class XmlUtrlUtils
+    public static class ToXmlUtils
     {
         private static readonly Type[] WriteTypes = new[] {
         typeof(string),
@@ -20,6 +20,7 @@ namespace XmlTest
         typeof(int), typeof(int?),
         typeof(decimal), typeof(decimal?),
         typeof(Guid), typeof(Guid?),
+        typeof(long), typeof(long?),
     };
         public static bool IsSimpleType(this Type type)
         {
