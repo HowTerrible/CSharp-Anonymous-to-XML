@@ -1,13 +1,14 @@
 # CSharp-Anonymous-to-XML
-CSharp Anonymous to XML Code
+
+CSharp Anonymous to XML Code <br>
 C#中 匿名对象/复杂结构对象 转XML工具
 
-Base Code are modified from answer at StackOverFlow
-https://stackoverflow.com/questions/2404685/can-i-serialize-anonymous-types-as-xml#
+Base Code are modified from answer at StackOverFlow <br>
+https://stackoverflow.com/questions/2404685/can-i-serialize-anonymous-types-as-xml# <br>
 Thanks for excellent work @Matthew , @Martin and @Jeremy-Cook
 
-代码基于 StackOverFlow中的回答
-https://stackoverflow.com/questions/2404685/can-i-serialize-anonymous-types-as-xml#
+代码基于 StackOverFlow中的回答 <br>
+https://stackoverflow.com/questions/2404685/can-i-serialize-anonymous-types-as-xml# <br>
 十分感谢 @Matthew , @Martin 和 @Jeremy-Cook 的解决方法
 
 ---
